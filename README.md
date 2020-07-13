@@ -17,11 +17,14 @@ Visit my LinkedIn to learn more about my career.
 
 
 #### Fun facts:
-I have Scrum certification, [SFC](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-PleitersonAmorim-779075.pdf) and [SFPC](https://certiprof.com/pages/successful-candidates-register) by SCRUMStudy and CertiProf. I have knowledge in BPMN. Studying LGPD, where I aim to obtain Exin certifications, from information security to DPO.
+- Crazy about games, books, music, theater, mountain biking;
+- I love my family. I am currently teaching the first steps in programming to my padawan [Hugo Costa](https://github.com/hugocsantos);
+- Follow my Xbox Live gamertag: @pleiterson
 
+*Sorry for my English, I have basic level. I had a little help from Google lol*
 <!--
 **Pleiterson/Pleiterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Se inscrevam em meu canal no YouTube:
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
