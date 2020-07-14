@@ -11,7 +11,7 @@ I have Scrum certification, [SFC](https://c46e136a583f7e334124-ac22991740ab4ff17
 
 Member of the National Data Privacy Association - [ANPPD](https://anppd.org/).
 
-- Studying Information Systems at PUCMinas. I love to learn new technologies and systems / games development;
+- Studying Information Systems at PUCMinas. I love to learn new technologies and systems/games development;
 - I have academic knowledge in Pascal, Visual Basic, Delphi, C ++, C # and SQL;
 - Learning new technologies such as: JavaScript, Node.JS, React.JS, Java ES6, Git, Python, PHP, etc.
 
