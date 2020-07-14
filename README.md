@@ -1,29 +1,29 @@
 <img src="https://imgur.com/52woddu.jpeg">
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/leticiacamposs2)](https://github.com/Pleiterson)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticiacamposs/)](https://www.linkedin.com/in/pleiterson/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/leehcamposs2)](https://twitter.com/pleiterson)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Pleiterson)](https://github.com/Pleiterson)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pleiterson/)](https://www.linkedin.com/in/pleiterson/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pleiterson)](https://twitter.com/pleiterson)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCCDLVCpzKyc_A9YisyCjI8Q?view_as=subscriber)](https://www.youtube.com/channel/UCCDLVCpzKyc_A9YisyCjI8Q?view_as=subscriber)
 ### Hi, I'm Pleiterson 👋
 
-I have 8 years of experience in reducing the fraud rate, loss prevention, risk management, analysis and preparation of action plans in preventive control and internal audit. I am responsible for mapping business processes to Corporate Security at [AeC](https://www.aec.com.br/).
+Possuo 8 anos de experiência em redução de índices de Fraudes, Prevenção de Perdas, Gerenciamento de Riscos, Análise e elaboração de planos de ação nos controles preventivos e Auditoria Interna. Responsável também pelo mapeamento de Processos de Negócios da Segurança Corporativa da [AeC](https://www.aec.com.br/).
 
-I have Scrum certification, [SFC](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-PleitersonAmorim-779075.pdf) and [SFPC](https://certiprof.com/pages/successful-candidates-register) by SCRUMStudy and CertiProf. I have knowledge in BPMN. Studying LGPD, where I intend to obtain Exin certifications, from information security to DPO.
+Sou certificado em Scrum, [SFC](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-PleitersonAmorim-779075.pdf) pela SCRUMStudy e, [SFPC](https://certiprof.com/pages/successful-candidates-register) pela CertiProf. Tenho conhecimentos em BPMN. Estudando LGPD, onde almejo obter as certificações da Exin, desde Segurança da Informação até o DPO.
 
-Member of the National Data Privacy Association - [ANPPD](https://anppd.org/).
+Atualmente sou membro da Associção Nacional dos Profissionais de Privacidade de Dados, a [ANPPD](https://anppd.org/).
 
-- Studying Information Systems at PUCMinas. I love to learn new technologies and systems/games development;
-- I have academic knowledge in Pascal, Visual Basic, Delphi, C ++, C # and SQL;
-- Learning new technologies such as: JavaScript, Node.JS, React.JS, Java ES6, Git, Python, PHP, etc.
+- Estudante de Sistemas de Informação na PUCMinas. Amo novas tecnologias de desenvolvimento;
+- Tenho conhecimentos acadêmicos em Pascal, Visual Basic, Delphi, C++, C# e SQL;
+- Estudando novas linguagens de programação: JavaScript, Node.JS, React.JS, Java ES6, Git, Python, PHP, etc...
 
-Visit my LinkedIn to learn more about my career.
+Visite meu LinkedIn e meu canal no Youtube (em evolução) no link acima. Veja também a nuvem de palavras acima com alguns de meus conhecimentos, ou nos quais estou estudando.
 
 
 #### Fun facts:
-- Crazy about games, books, music, theater, mountain biking;
-- I love my family. I am currently teaching the first steps in programming to my padawan [Hugo Costa](https://github.com/hugocsantos);
-- Follow my Xbox Live gamertag: @pleiterson
+- Nerd assumido 😄. Sou louco com games, livros, quadrinhos, animes, músicas, teatro, cinema, bikes;
+- Amo minha família. Ensinando os primeiros passos no mundo nerd e na programação ao meu padawan [Hugo Costa](https://github.com/hugocsantos);
+- Siga-me na Xbox Live, minha gamertag: @pleiterson
 
-*Sorry for my English, I have basic level. I had a little help from Google lol*
 <!--
 **Pleiterson/Pleiterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
