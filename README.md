@@ -3,7 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Pleiterson)](https://github.com/Pleiterson)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pleiterson/)](https://www.linkedin.com/in/pleiterson/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pleiterson)](https://twitter.com/pleiterson)
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCCDLVCpzKyc_A9YisyCjI8Q?view_as=subscriber)](https://www.youtube.com/channel/UCCDLVCpzKyc_A9YisyCjI8Q?view_as=subscriber)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/user/pleiterson)](https://www.youtube.com/user/pleiterson)
 ### Oi, sou o Pleiterson 👋
 
 Possuo 8 anos de experiência em redução de índices de Fraudes, Prevenção de Perdas, Gerenciamento de Riscos, Análise e elaboração de planos de ação nos controles preventivos e Auditoria Interna. Responsável também pelo mapeamento de Processos de Negócios da Segurança Corporativa da [AeC](https://www.aec.com.br/).
