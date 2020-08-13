@@ -10,7 +10,7 @@ Possuo 8 anos de experiência em redução de índices de Fraudes, Prevenção d
 
 Sou certificado em Scrum, [SFC](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-PleitersonAmorim-779075.pdf) pela SCRUMStudy e, [SFPC](https://certiprof.com/pages/successful-candidates-register) pela CertiProf. Tenho conhecimentos em BPMN. Estudando LGPD, onde almejo obter as certificações da Exin, desde Segurança da Informação até o DPO.
 
-Atualmente sou membro da Associção Nacional dos Profissionais de Privacidade de Dados, a [ANPPD](https://anppd.org/).
+Atualmente sou membro da Associação Nacional dos Profissionais de Privacidade de Dados, a [ANPPD](https://anppd.org/).
 
 - Estudante de Sistemas de Informação na PUCMinas. Amo novas tecnologias de desenvolvimento;
 - Tenho conhecimentos acadêmicos em Pascal, Visual Basic, Delphi, C++, C# e SQL;
@@ -20,9 +20,12 @@ Visite meu LinkedIn e meu canal no Youtube (em evolução) no link acima. Veja t
 
 
 #### Fun facts:
-- Nerd assumido 😄. Sou louco com games, livros, quadrinhos, animes, músicas, teatro, cinema, bikes;
+- Nerd 😄. Louco com games, livros, quadrinhos, animes, músicas, teatro, cinema, bikes;
 - Amo minha família. Ensinando os primeiros passos no mundo nerd e na programação ao meu padawan [Hugo Costa](https://github.com/hugocsantos);
 - Siga-me na Xbox Live, minha gamertag: @pleiterson
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Pleiterson&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=Pleiterson&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Pleiterson/Pleiterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
