@@ -1,4 +1,4 @@
-<img src=".assets/nuvemplei.jpeg">
+<img src="https://imgur.com/RGqULzW.jpeg">
 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Pleiterson)](https://github.com/Pleiterson)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pleiterson/)](https://www.linkedin.com/in/pleiterson/)
