@@ -1,5 +1,5 @@
 <!--Banner session-->
-<p align="center"><img src="./assets/nuvemplei.png"><br>
+<p align="center"><img src="assets/nuvemplei.png"><br>
 <!-- Badges session -->
 <a href="https://github.com/Pleiterson" target="_blank"><img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white&link" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/pleiterson" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -24,21 +24,21 @@ Atualmente sou membro da Associação Nacional dos Profissionais de Privacidade 
 
 - Estudante de Sistemas de Informação na PUCMinas. Amo novas tecnologias de desenvolvimento;
 - Conhecimentos em: Pascal,
-<img src="./assets/pascal.png" alt="Pascal" width="20" height="20"/>
-<img src="./assets/visal-basic.png" alt="Visual Basic" width="20" height="20"/>
-<img src="./assets/delphi.png" alt="Delphi" width="20" height="20"/>
-<img src="./assets/c++.png" alt="C++" width="20" height="20"/>
-<img src="./assets/c-sharp.svg" alt="C#" width="20" height="20"/>
-<img src="./assets/git.svg" alt="Git" width="20" height="20"/>
-<img src="./assets/Microsoft-SQL-Server.png" alt="SQL" width="20" height="20"/>
-<img src="./assets/html5.svg" alt="HTML5" width="20" height="20"/>
+<img src="assets/pascal.png" alt="Pascal" width="20" height="20"/>
+<img src="assets/visal-basic.png" alt="Visual Basic" width="20" height="20"/>
+<img src="assets/delphi.png" alt="Delphi" width="20" height="20"/>
+<img src="assets/c++.png" alt="C++" width="20" height="20"/>
+<img src="assets/c-sharp.svg" alt="C#" width="20" height="20"/>
+<img src="assets/git.svg" alt="Git" width="20" height="20"/>
+<img src="assets/Microsoft-SQL-Server.png" alt="SQL" width="20" height="20"/>
+<img src="assets/html5.svg" alt="HTML5" width="20" height="20"/>
 - Estudando novas linguagens de programação:
-<img src="./assets/javascript.svg" alt="JavaScript" width="20" height="20"/>
-<img src="./assets/nodejs.svg" alt="NpdeJS" width="20" height="20"/>
-<img src="./assets/reactjs.svg" alt="ReactJS" width="20" height="20"/>
-<img src="./assets/python.png" alt="Python" width="20" height="20"/>
-<img src="./assets/php.png" alt="PHP" width="20" height="20"/>
-<img src="./assets/css3.svg" alt="CSS3" width="20" height="20"/>
+<img src="assets/javascript.svg" alt="JavaScript" width="20" height="20"/>
+<img src="assets/nodejs.svg" alt="NpdeJS" width="20" height="20"/>
+<img src="assets/reactjs.svg" alt="ReactJS" width="20" height="20"/>
+<img src="assets/python.png" alt="Python" width="20" height="20"/>
+<img src="assets/php.png" alt="PHP" width="20" height="20"/>
+<img src="assets/css3.svg" alt="CSS3" width="20" height="20"/>
 
 <b>Visite meu LinkedIn e meu canal no Youtube <i>(em evolução)</i></b>.
 
@@ -53,7 +53,7 @@ Atualmente sou membro da Associação Nacional dos Profissionais de Privacidade 
 <h3>🔍 Fun facts:</h3>
 
 - Nerd, louco com cachorros (🐕), games (🎮), livros (📚), quadrinhos, animes, músicas (🎼), teatro (🎭), cinema (🎬), bikes (🚵‍♂️);
-- Amo minha família (). Ensinando os primeiros passos no mundo nerd e na programação ao meu padawan [Hugo Costa](https://github.com/hugocsantos);
+- Amo minha família (👨‍👩‍👦). Ensinando os primeiros passos no mundo nerd e na programação ao meu padawan [Hugo Costa](https://github.com/hugocsantos);
 
 - Follow me in the Xbox community: @pleiterson
 
