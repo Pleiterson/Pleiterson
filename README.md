@@ -1,5 +1,5 @@
 <!--Banner session-->
-<p align="center"><img src="assets/nuvemplei.png"><br>
+<p align="center"><img src="assets/nuvemplei.png"/><br>
 <!-- Badges session -->
 <a href="https://github.com/Pleiterson" target="_blank"><img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white&link" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/pleiterson" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
