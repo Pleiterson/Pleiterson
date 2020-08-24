@@ -24,21 +24,10 @@ Atualmente sou membro da Associação Nacional dos Profissionais de Privacidade 
 
 - Estudante de Sistemas de Informação na PUCMinas. Amo novas tecnologias de desenvolvimento;
 - Conhecimentos em: Pascal,
-<img src="assets/pascal.png" alt="Pascal" width="20" height="20"/>
-<img src="assets/visal-basic.png" alt="Visual Basic" width="20" height="20"/>
-<img src="assets/delphi.png" alt="Delphi" width="20" height="20"/>
-<img src="assets/c++.png" alt="C++" width="20" height="20"/>
-<img src="assets/c-sharp.svg" alt="C#" width="20" height="20"/>
-<img src="assets/git.svg" alt="Git" width="20" height="20"/>
-<img src="assets/Microsoft-SQL-Server.png" alt="SQL" width="20" height="20"/>
+<img src="assets/pascal.png" alt="Pascal" width="20" height="20"/><img src="assets/visal-basic.png" alt="Visual Basic" width="20" height="20"/><img src="assets/delphi.png" alt="Delphi" width="20" height="20"/><img src="assets/c++.png" alt="C++" width="20" height="20"/><img src="assets/c-sharp.svg" alt="C#" width="20" height="20"/><img src="assets/git.svg" alt="Git" width="20" height="20"/><img src="assets/Microsoft-SQL-Server.png" alt="SQL" width="20" height="20"/>
 <img src="assets/html5.svg" alt="HTML5" width="20" height="20"/>
 - Estudando novas linguagens de programação:
-<img src="assets/javascript.svg" alt="JavaScript" width="20" height="20"/>
-<img src="assets/nodejs.svg" alt="NpdeJS" width="20" height="20"/>
-<img src="assets/reactjs.svg" alt="ReactJS" width="20" height="20"/>
-<img src="assets/python.png" alt="Python" width="20" height="20"/>
-<img src="assets/php.png" alt="PHP" width="20" height="20"/>
-<img src="assets/css3.svg" alt="CSS3" width="20" height="20"/>
+<img src="assets/javascript.svg" alt="JavaScript" width="20" height="20"/><img src="assets/nodejs.svg" alt="NpdeJS" width="20" height="20"/><img src="assets/reactjs.svg" alt="ReactJS" width="20" height="20"/><img src="assets/python.png" alt="Python" width="20" height="20"/><img src="assets/php.png" alt="PHP" width="20" height="20"/><img src="assets/css3.svg" alt="CSS3" width="20" height="20"/>
 
 <b>Visite meu LinkedIn e meu canal no Youtube <i>(em evolução)</i></b>.
 
