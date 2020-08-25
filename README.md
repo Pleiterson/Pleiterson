@@ -8,6 +8,7 @@
 <a href="https://www.instagram.com/pleiterson/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
+
 <!--About session-->
 <h1 align="center">👋 Hi, I'm Pleiterson 💻<br>👍 Welcome to my GitHub 😁</h1>
 
@@ -15,11 +16,11 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Pleiterson" alt="Pleiterson"/></p> -->
 <p align="left"><img src="https://visitor-badge.laobi.icu/badge?page_id=Pleiterson" alt="Pleiterson"/></p>
 
-Possuo 8 anos de experiência em redução de índices de Fraudes, Prevenção de Perdas, Gerenciamento de Riscos, Análise e elaboração de planos de ação nos controles preventivos e Auditoria Interna. Responsável também pelo mapeamento de Processos de Negócios da Segurança Corporativa da [AeC](https://www.aec.com.br/).
+Possuo 8 anos de experiência em redução de índices de Fraudes, Prevenção de Perdas, Gerenciamento de Riscos, Análise e elaboração de planos de ação nos controles preventivos e Auditoria Interna. Responsável também pelo mapeamento de Processos de Negócios da Segurança Corporativa da [AeC](https://www.aec.com.br).
 
 - Certificado em Scrum, [SFC](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-PleitersonAmorim-779075.pdf) pela SCRUMStudy e, [SFPC](https://certiprof.com/pages/successful-candidates-register) pela CertiProf;
 - Estudando LGPD, onde almejo obter as certificações da Exin, desde Segurança da Informação até o DPO;
-- Atualmente sou membro da Associação Nacional dos Profissionais de Privacidade de Dados, a [ANPPD](https://anppd.org/).
+- Atualmente sou membro da Associação Nacional dos Profissionais de Privacidade de Dados, a [ANPPD](https://anppd.org).
 
 - Estudante de Sistemas de Informação na PUCMinas;
 - Conhecimentos em:Pascal, Visual Basic, Delphi,
@@ -34,19 +35,19 @@ Possuo 8 anos de experiência em redução de índices de Fraudes, Prevenção d
 
 - Estudando novas linguagens de programação:
   <p>    
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="NpdeJS" width="20" height="20"/>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="20" height="20"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="ReactJS" width="20" height="20"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" width="20" height="20"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20" height="20"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="20" height="20"/>
   </p>
 
-<b>Visite meu LinkedIn e meu canal no Youtube <i>(em evolução)</i></b>.
+Visite meu LinkedIn e meu canal no Youtube <i>(em evolução)</i>.
 
 
 <h3>👨‍💻 Projetos realizados:</h3>
 
-- [A Bruxa Hipsta](https://editor.p5js.org/pleiterson/embed/1RMkKmkOm) | <a href="https://github.com/Pleiterson/imersaogamedev-javascript" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a>
+- [A Bruxa Hipsta](https://imersaogamedev-javascript.vercel.app) | <a href="https://github.com/Pleiterson/imersaogamedev-javascript" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a>
 - [PleiFlix](https://pleiflix.vercel.app) | <a href="https://github.com/Pleiterson/imersaoreactjs-reactjs-pleiflix" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a>
 - [Proffy](https://proffydiscovery-theta.vercel.app) | <a href="https://github.com/Pleiterson/nlw2-discovery-proffy" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a>
 
@@ -55,7 +56,6 @@ Possuo 8 anos de experiência em redução de índices de Fraudes, Prevenção d
 
 - Nerd, louco com cachorros (🐕), games (🎮), livros (📚), quadrinhos, animes, músicas (🎼), teatro (🎭), cinema (🎬), bikes (🚵‍♂️);
 - Amo minha família (👨‍👩‍👦). Ensinando os primeiros passos no mundo nerd e na programação ao meu padawan [Hugo Costa](https://github.com/hugocsantos);
-
 - Follow me in the Xbox community: @pleiterson
 - Follow me in the Rocketseat community 🚀: [Pleiterson](https://app.rocketseat.com.br/me/pleiterson)
 
@@ -66,6 +66,7 @@ Possuo 8 anos de experiência em redução de índices de Fraudes, Prevenção d
 </p>
 
 <p align="center"><img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1596034333343.png" alt="myoctocat" height="300" width="300"></p>
+
 <!--
 **Pleiterson/Pleiterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
