@@ -22,18 +22,18 @@ Possuo 8 anos de experiência em redução de índices de Fraudes, Prevenção d
 - Atualmente sou membro da Associação Nacional dos Profissionais de Privacidade de Dados, a [ANPPD](https://anppd.org/).
 
 - Estudante de Sistemas de Informação na PUCMinas;
-- Conhecimentos em:<br>
-  <p>Pascal, Visual Basic, Delphi,
+- Conhecimentos em:Pascal, Visual Basic, Delphi,
+  <p>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20" height="20"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="C#" width="20" height="20"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="SQL" width="20" height="20"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="Git" width="20" height="20"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="20" height="20"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/>
 </p>
 
 - Estudando novas linguagens de programação:
-  <p>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/>
+  <p>    
     <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="NpdeJS" width="20" height="20"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="ReactJS" width="20" height="20"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" width="20" height="20"/>
@@ -65,7 +65,7 @@ Possuo 8 anos de experiência em redução de índices de Fraudes, Prevenção d
 <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pleiterson&layout=compact&theme=vue-dark" alt="Linguagens utilizadas">
 </p>
 
-
+<p align="center"><img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1596034333343.png" alt="myoctocat" height="300" width="300"></p>
 <!--
 **Pleiterson/Pleiterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
