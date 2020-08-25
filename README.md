@@ -22,20 +22,33 @@ Possuo 8 anos de experiência em redução de índices de Fraudes, Prevenção d
 
 Atualmente sou membro da Associação Nacional dos Profissionais de Privacidade de Dados, a [ANPPD](https://anppd.org/).
 
-- Estudante de Sistemas de Informação na PUCMinas. Amo novas tecnologias de desenvolvimento;
-- Conhecimentos em: Pascal,
-<img src="assets/pascal.png" alt="Pascal" width="20" height="20"/><img src="assets/visal-basic.png" alt="Visual Basic" width="20" height="20"/><img src="assets/delphi.png" alt="Delphi" width="20" height="20"/><img src="assets/c++.png" alt="C++" width="20" height="20"/><img src="assets/c-sharp.svg" alt="C#" width="20" height="20"/><img src="assets/git.svg" alt="Git" width="20" height="20"/><img src="assets/Microsoft-SQL-Server.png" alt="SQL" width="20" height="20"/><img src="assets/html5.svg" alt="HTML5" width="20" height="20"/>
+- Estudante de Sistemas de Informação na PUCMinas;
+- Conhecimentos em:
+<p align="left">Pascal, Visual Basic, Delphi, 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="C#" width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="SQL" width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="Git" width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="20" height="20"/>
+</p>
 - Estudando novas linguagens de programação:
-<img src="assets/javascript.svg" alt="JavaScript" width="20" height="20"/><img src="assets/nodejs.svg" alt="NpdeJS" width="20" height="20"/><img src="assets/reactjs.svg" alt="ReactJS" width="20" height="20"/><img src="assets/python.png" alt="Python" width="20" height="20"/><img src="assets/php.png" alt="PHP" width="20" height="20"/><img src="assets/css3.svg" alt="CSS3" width="20" height="20"/>
+<p align="left">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="NpdeJS" width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="ReactJS" width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="20" height="20"/>
+</p>
 
 <b>Visite meu LinkedIn e meu canal no Youtube <i>(em evolução)</i></b>.
 
 
 <h3>👨‍💻 Projetos realizados:</h3>
 
-- [A Bruxa Hipsta](https://editor.p5js.org/pleiterson/embed/1RMkKmkOm) | [![GitHub Badge](https://img.shields.io/badge/-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/Pleiterson/Alura-ImersaoGameDev-JavaScript)
-- [PleiFlix](https://pleiflix.vercel.app) | [![GitHub Badge](https://img.shields.io/badge/-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/Pleiterson/Alura-ImersaoReactJS-pleiflix)
-- [Proffy](https://proffydiscovery-theta.vercel.app) | [![GitHub Badge](https://img.shields.io/badge/-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/Pleiterson/rocketseat-NLW2-discovery-Proffy)
+- [A Bruxa Hipsta](https://editor.p5js.org/pleiterson/embed/1RMkKmkOm) | <a href="https://github.com/Pleiterson/Alura-ImersaoGameDev-JavaScript" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a>
+- [PleiFlix](https://pleiflix.vercel.app) | <a href="https://github.com/Pleiterson/Alura-ImersaoReactJS-pleiflix" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a>
+- [Proffy](https://proffydiscovery-theta.vercel.app) | <a href="https://github.com/Pleiterson/rocketseat-NLW2-discovery-Proffy" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a>
 
 
 <h3>🔍 Fun facts:</h3>
@@ -44,6 +57,7 @@ Atualmente sou membro da Associação Nacional dos Profissionais de Privacidade 
 - Amo minha família (👨‍👩‍👦). Ensinando os primeiros passos no mundo nerd e na programação ao meu padawan [Hugo Costa](https://github.com/hugocsantos);
 
 - Follow me in the Xbox community: @pleiterson
+- Follow me in the Rocketseat community 🚀: [Pleiterson](https://app.rocketseat.com.br/me/pleiterson)
 
 
 <p align="center">
