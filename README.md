@@ -61,8 +61,8 @@ Visite meu LinkedIn e meu canal no Youtube <i>(em evolução)</i>.
 
 
 <p align="center">
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=Pleiterson&show_icons=true&theme=vue-dark" alt="Pleiterson"/>
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pleiterson&layout=compact&theme=vue-dark" alt="Linguagens utilizadas">
+<img width="400" src="https://github-readme-stats.pleiterson.vercel.app/api?username=Pleiterson&show_icons=true&theme=vue-dark" alt="Pleiterson"/>
+<img width="400" src="https://github-readme-stats.pleiterson.vercel.app/api/top-langs?username=Pleiterson&layout=compact&theme=vue-dark" alt="Linguagens utilizadas">
 </p>
 
 <p align="center"><img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1596034333343.png" alt="myoctocat" height="300" width="300"></p>
