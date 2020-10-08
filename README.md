@@ -23,7 +23,7 @@ Possuo 8 anos de experiência em redução de índices de Fraudes, Prevenção d
 - Atualmente sou membro da Associação Nacional dos Profissionais de Privacidade de Dados, a [ANPPD](https://anppd.org).
 
 - Estudante de Sistemas de Informação na PUCMinas;
-- Conhecimentos em:Pascal, Visual Basic, Delphi,
+- Conhecimentos em: Pascal, Visual Basic, Delphi,
   <p>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20" height="20"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="C#" width="20" height="20"/>
@@ -50,6 +50,7 @@ Visite meu LinkedIn e meu canal no Youtube <i>(em evolução)</i>.
 - [A Bruxa Hipsta](https://imersaogamedev-javascript.vercel.app) | <a href="https://github.com/Pleiterson/imersaogamedev-javascript" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a>
 - [PleiFlix](https://pleiflix.vercel.app) | <a href="https://github.com/Pleiterson/imersaoreactjs-reactjs-pleiflix" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a>
 - [Proffy](https://proffydiscovery-theta.vercel.app) | <a href="https://github.com/Pleiterson/nlw2-discovery-proffy" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a>
+- [Clone Home Instagram](https://clone-instagram.vercel.app/) | <a href="https://github.com/Pleiterson/clone-home-instagram-html-css" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a>
 
 
 <h3>🔍 Fun facts:</h3>
