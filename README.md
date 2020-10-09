@@ -30,6 +30,7 @@ Possuo 8 anos de experiência em redução de índices de Fraudes, Prevenção d
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="SQL" width="20" height="20"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="Git" width="20" height="20"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="20" height="20"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="20" height="20"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/>
 </p>
 
@@ -38,8 +39,7 @@ Possuo 8 anos de experiência em redução de índices de Fraudes, Prevenção d
     <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="20" height="20"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="ReactJS" width="20" height="20"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" width="20" height="20"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20" height="20"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="20" height="20"/>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20" height="20"/>    
   </p>
 
 Visite meu LinkedIn e meu canal no Youtube <i>(em evolução)</i>.
@@ -47,10 +47,10 @@ Visite meu LinkedIn e meu canal no Youtube <i>(em evolução)</i>.
 
 <h3>👨‍💻 Projetos realizados:</h3>
 
-- [A Bruxa Hipsta](https://imersaogamedev-javascript.vercel.app) | <a href="https://github.com/Pleiterson/imersaogamedev-javascript" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a>
-- [PleiFlix](https://pleiflix.vercel.app) | <a href="https://github.com/Pleiterson/imersaoreactjs-reactjs-pleiflix" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a>
-- [Proffy](https://proffydiscovery-theta.vercel.app) | <a href="https://github.com/Pleiterson/nlw2-discovery-proffy" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a>
-- [Clone Home Instagram](https://clone-instagram.vercel.app/) | <a href="https://github.com/Pleiterson/clone-home-instagram-html-css" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a>
+- [Game | A Bruxa Hipsta | Alura](https://imersaogamedev-javascript.vercel.app) | <a href="https://github.com/Pleiterson/imersaogamedev-javascript" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a>
+- [Web | PleiFlix | Alura](https://pleiflix.vercel.app) | <a href="https://github.com/Pleiterson/imersaoreactjs-reactjs-pleiflix" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a>
+- [Web | Proffy | Rocketseat](https://proffydiscovery-theta.vercel.app) | <a href="https://github.com/Pleiterson/nlw2-discovery-proffy" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a>
+- [Web | Clone Home Instagram | Digital Innovation One](https://clone-instagram.vercel.app/) | <a href="https://github.com/Pleiterson/clone-home-instagram-html-css" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a>
 
 
 <h3>🔍 Fun facts:</h3>
