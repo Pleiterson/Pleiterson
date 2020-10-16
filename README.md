@@ -49,7 +49,7 @@ Visite meu LinkedIn e meu canal no Youtube <i>(em evolução)</i>.
 
 - [A Bruxa Hipsta | Alura](https://imersaogamedev-javascript.vercel.app) | <a href="https://github.com/Pleiterson/imersaogamedev-javascript" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a>
 - [PleiFlix | Alura](https://pleiflix.vercel.app) | <a href="https://github.com/Pleiterson/imersaoreactjs-reactjs-pleiflix" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a>
-- [Proffy | Rocketseat](https://proffydiscovery-theta.vercel.app) | <a href="https://github.com/Pleiterson/nlw2-discovery-proffy" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a>
+- Proffy | Rocketseat | <a href="https://github.com/Pleiterson/nlw2-discovery-proffy" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a>
 - [Clone Home Instagram | Digital Innovation One](https://clone-instagram.vercel.app/) | <a href="https://github.com/Pleiterson/clone-home-instagram-html-css" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a>
 
 
