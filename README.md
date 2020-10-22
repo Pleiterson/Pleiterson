@@ -59,7 +59,8 @@ Visite meu LinkedIn e meu canal no Youtube <i>(em evolução)</i>.
 - Nerd, louco com cachorros (🐕), games (🎮), livros (📚), quadrinhos, animes, músicas (🎼), teatro (🎭), cinema (🎬), bikes (🚵‍♂️);
 - Amo minha família (👨‍👩‍👦). Ensinando os primeiros passos no mundo nerd e na programação ao meu padawan [Hugo Costa](https://github.com/hugocsantos);
 - Follow me in the Xbox community: @pleiterson
-- Follow me in the Rocketseat community 🚀: [Pleiterson](https://app.rocketseat.com.br/me/pleiterson)
+- Follow me in the [Rocketseat community](https://app.rocketseat.com.br/me/pleiterson) 🚀
+- View profile [Sourcerer](https://sourcerer.io/pleiterson)
 
 
 <p align="center">
