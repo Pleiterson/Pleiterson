@@ -23,7 +23,7 @@ Experiência de 9 anos relativos à redução de índice de Fraude, Prevenção 
 - Atualmente sou membro público da Associação Nacional dos Profissionais de Privacidade de Dados, a [ANPPD](https://anppd.org).
 
 - Estudante de Sistemas de Informação na PUCMinas;
-- Conhecimentos em: 
+- Conhecimentos em: Pascal, Delphi, 
 <span>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="Visual Basic" title="Visual Basic" width="20" height="20"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="20" height="20"/>
