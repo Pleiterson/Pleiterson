@@ -7,7 +7,7 @@
 <a href="https://twitter.com/pleiterson" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-%2303A9F4.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://www.youtube.com/user/pleiterson" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white" alt="YouTube"></a>
 <a href="https://www.instagram.com/pleiterson/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-</p><br><br>
+</p><br>
 
 <!--About session-->
 <h1 align="center">👋 Hi, I'm Pleiterson 💻<br>👍 Welcome to my GitHub 😁</h1>
@@ -23,7 +23,7 @@ Experiência de 9 anos relativos à redução de índice de Fraude, Prevenção 
 - Atualmente sou membro público da Associação Nacional dos Profissionais de Privacidade de Dados, a [ANPPD](https://anppd.org).
 
 - Estudante de Sistemas de Informação na PUCMinas;
-- Conhecimentos em: Pascal, Delphi, 
+- Conhecimentos em: 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="Visual Basic" title="Visual Basic" width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="20" height="20"/>
