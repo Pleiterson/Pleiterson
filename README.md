@@ -24,14 +24,16 @@ Experiência de 9 anos relativos à redução de índice de Fraude, Prevenção 
 
 - Estudante de Sistemas de Informação na PUCMinas;
 - Conhecimentos em: 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="Visual Basic" title="Visual Basic" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="SQL" title="SQL" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="Git" title="Git" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="20" height="20"/>
+<span>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="Visual Basic" title="Visual Basic" width="20" height="20"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="20" height="20"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="20" height="20"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="SQL" title="SQL" width="20" height="20"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="Git" title="Git" width="20" height="20"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="20" height="20"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="20" height="20"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="20" height="20"/>
+</span>
 
 <h3>👨‍💻 Projetos realizados:</h3>
 
