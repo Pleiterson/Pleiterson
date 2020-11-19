@@ -71,8 +71,13 @@ Experiência de 9 anos relativos à redução de índice de Fraude, Prevenção 
       <td><a href="https://github.com/Pleiterson/clone-interface-netflix-html-css-js" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a></td>
       <td>Projeto realizado no Bootcamp HTML Web Developer da Digital Innovation One.</td>
     </tr>
+    <tr>
+      <td><a href="https://pleiterson.vercel.app/" target="_blank" rel="noopener noreferrer">Meu Portfólio Pessoal</a></td>
+      <td><a href="https://github.com/Pleiterson/my-personal-portfolio" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a></td>
+      <td>Projeto pessoal para deixar organizadas todas as minhas informações pessoais e profissionais como dev.</td>
+    </tr>
   </tbody>
-</table><br><br>
+</table><br>
 
 <h3>🌱 I’m currently learning<h3>
 
