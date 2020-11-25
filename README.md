@@ -76,6 +76,11 @@ Experiência de 9 anos relativos à redução de índice de Fraude, Prevenção 
       <td><a href="https://github.com/Pleiterson/my-personal-portfolio" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a></td>
       <td>Projeto pessoal para deixar organizadas todas as minhas informações pessoais e profissionais como dev.</td>
     </tr>
+    <tr>
+      <td><a href="https://uiclone-vercel.vercel.app/" target="_blank" rel="noopener noreferrer">UI Clone Vercel</a></td>
+      <td><a href="https://github.com/Pleiterson/ui-clone-vercel-rocketseat" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a></td>
+      <td>Código criado do vídeo "Recriando homepage da Vercel" do YouTube da Rocketseat (UI Clone).</td>
+    </tr>
   </tbody>
 </table><br>
 
