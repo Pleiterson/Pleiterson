@@ -87,10 +87,12 @@ Experiência de 9 anos relativos à redução de índice de Fraude, Prevenção 
 <h3>🌱 I’m currently learning<h3>
 
 - Estudando novas linguagens de programação: 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="ReactJS" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20" height="20"/><br><br>
+<span>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="20" height="20"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="ReactJS" width="20" height="20"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" width="20" height="20"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20" height="20"/>
+</span><br><br>
 
 <h3>📫 How to reach me:</h3>
 
@@ -101,7 +103,7 @@ Experiência de 9 anos relativos à redução de índice de Fraude, Prevenção 
 - Nerd, louco com cachorros 🐕, games 🎮, livros 📚, quadrinhos, animes, músicas 🎼, teatro 🎭, cinema 🎬, bikes 🚵‍♂️;
 - Amo minha família 👨‍👩‍👦. Ensinando os primeiros passos no mundo nerd e na programação ao meu padawan [Hugo Costa](https://github.com/hugocsantos);
 - Follow me in the Xbox Community: @pleiterson
-- Follow me in the [Rocketseat community](https://app.rocketseat.com.br/me/pleiterson) 🚀
+- Follow me in the Rocketseat community: Pleiterson Amorim 🚀
 - View profile [Sourcerer](https://sourcerer.io/pleiterson)<br><br>
 
 <p align="center">
