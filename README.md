@@ -86,6 +86,11 @@ Experiência de 9 anos relativos à redução de índice de Fraude, Prevenção 
       <td><a href="https://github.com/Pleiterson/ui-clone-typeform-rocketseat" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a></td>
       <td>Clone produzido durante o vídeo "Homepage Animada do Typeform com Framer Motion (ReactJS)" do canal no YouTube da Rocketseat (UI Clone).</td>
     </tr>
+    <tr>
+      <td><a href="https://game-snake.vercel.app/" target="_blank" rel="noopener noreferrer">Snake Game</a></td>
+      <td><a href="https://github.com/Pleiterson/snake-game-javascript" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="GitHub" height="20" width="20" /></a></td>
+      <td>Game Snake criado durante o Bootcamp HTML Developer da Digital Innovation One.</td>
+    </tr>
   </tbody>
 </table><br>
 
