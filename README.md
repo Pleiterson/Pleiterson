@@ -16,6 +16,7 @@ To learn more about me, visit my <a target="_blank" rel="noopener noreferrer" hr
 <span><img src="https://visitor-badge.laobi.icu/badge?page_id=Pleiterson" alt="Pleiterson"/></span>
 <a href="https://github.com/Pleiterson" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=lat-square&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://gitlab.com/pleiterson" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitLab-330F63?style=lat-square&logo=gitlab&logoColor=white" alt="GitLab"></a>
+<a href="https://pt.stackoverflow.com/users/251689/pleiterson-amorim" target="_blank" rel="noopener noreferrer"><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" alt="StackOverflow"></a>
 <a href="https://www.linkedin.com/in/pleiterson" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=lat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.youtube.com/user/pleiterson" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=lat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
 <a href="https://twitter.com/pleiterson" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=lat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
