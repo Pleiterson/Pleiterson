@@ -34,35 +34,40 @@ To learn more about me, visit my <a target="_blank" rel="noopener noreferrer" hr
 
 ```javascript
 const pleiterson = {
-  code: [],
+  code: ['C++', 'C#', 'HTML', 'CSS', 'JavaScript', 'TypeScript', 'Java'],
+  certifications: ['SFC', 'SFPC', 'LLL'],
   technologies: {
-    tools: [],
-    mobile: [],
-    ide: [],
+    tools: ['Node.js','ReactJS', 'Yarn', 'npm', 'git', 'styled-components',
+    mobile: ['React Native'],
+    databases: ['SQL', 'PostgreSQL', 'MongoDB', 'MySQL', 'SQLite', 'Docker'],
+    ides: ['VS Code', 'Android Studio'],
   },
+  methodologies: ['Scrum', 'Kanban', 'Agile'],
+  interest: ['Python', 'php', 'Ruby', 'Kotlin', 'Angular', 'Bootstrap', 'GraphQL'],
+  otherCodes: ['Pascal', 'Visual Basic', 'Delphi']
 }
 ```
 
 <div style="display: inline_block"><br>
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Basic" title="Visual Basic" height="30" width="40"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" height="30" width="40"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" height="30" width="40"/>
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" title="SQL" height="30" width="40"/>
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" height="30" width="40"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" height="30" width="40"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" height="30" width="40""/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="30" width="40"/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" height="30" width="40"/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" height="30" width="40"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" title="NodeJS" height="30" width="40"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" title="ReactJS" height="30" width="40"/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" height="30" width="40"/>
 <div>
 <br>
-
+<!--
 <h3>🌱 I’m currently learning<h3>
 <div style="display: inline_block">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" height="30" width="40"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" title="php" width="20" height="30" width="40"/>
 </div>
-<br>
+<br> -->
 
 <h3>🔍 Fun facts:</h3>
   
