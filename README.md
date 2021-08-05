@@ -8,6 +8,7 @@
 <span><em>Freelance Developer</em></span>
 <br><br>
 <p>Born and raised in Belo Horizonte - MG, where I live until today. Father, Husband, communicative, proactive and cheerful, a person who values simple and humble things. I love being with my family and friends. I like to read about various topics and I'm passionate about comics, anime, music, theater, cinema, biking and cooking. Crazy about games, an assumed nerd since childhood! I'm always looking for time to go out with my family, also learn and, especially, teach my son <a target="_blank" rel="noopener noreferrer" href="https://github.com/hugocsantos">Hugo Costa</a> the steps of programming.</p>
+To learn more about me, visit my <a target="_blank" rel="noopener noreferrer" href="https://pleiterson.vercel.app/">Personal Portfolio</a>, there you can view my full profile.
 
 ##
 
@@ -42,27 +43,26 @@ const pleiterson = {
 }
 ```
 
-<span>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="Visual Basic" title="Visual Basic" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="SQL" title="SQL" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="Git" title="Git" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="ReactJS" width="20" height="20"/>  
-</span>
+<div style="display: inline_block"><br>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Basic" title="Visual Basic" height="30" width="40"/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" height="30" width="40"/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" height="30" width="40"/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" title="SQL" height="30" width="40"/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" height="30" width="40"/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" height="30" width="40"/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" height="30" width="40""/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="30" width="40"/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" title="NodeJS" height="30" width="40"/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" title="ReactJS" height="30" width="40"/>
+<div>
+<br>
 
 <h3>🌱 I’m currently learning<h3>
-<span>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20" height="20"/>
-</span><br><br>
-
-<h3>📫 How to reach me:</h3>
-To learn more about me, visit my <a target="_blank" rel="noopener noreferrer" href="https://pleiterson.vercel.app/">Personal Portfolio</a>, there you can view my full profile.<br><br>
+<div style="display: inline_block">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" height="30" width="40"/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" title="php" width="20" height="30" width="40"/>
+</div>
+<br>
 
 <h3>🔍 Fun facts:</h3>
   
