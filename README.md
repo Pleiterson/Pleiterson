@@ -37,7 +37,7 @@ const pleiterson = {
   code: ['C++', 'C#', 'HTML', 'CSS', 'JavaScript', 'TypeScript', 'Java'],
   certifications: ['SFC', 'SFPC', 'LLL'],
   technologies: {
-    tools: ['Node.js','ReactJS', 'Yarn', 'npm', 'git', 'styled-components',
+    tools: ['Node.js','ReactJS', 'Yarn', 'npm', 'git', 'styled-components'],
     mobile: ['React Native'],
     databases: ['SQL', 'PostgreSQL', 'MongoDB', 'MySQL', 'SQLite', 'Docker'],
     ides: ['VS Code', 'Android Studio'],
