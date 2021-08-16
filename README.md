@@ -22,6 +22,7 @@ To learn more about me, visit my <a target="_blank" rel="noopener noreferrer" hr
 <a href="https://twitter.com/pleiterson" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=lat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://www.instagram.com/pleiterson/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=lat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/pleiterson.amorim" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=lat-square&logo=facebook&logoColor=white" alt="Facebook"></a><br>
+<a href="https://account.xbox.com/pt-br/profile?gamertag=pleiterson" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Xbox-107C10?style=lat-square&logo=xbox&logoColor=white" alt="Xbox"></a><br>
 
 <div align="center">
   <a href="https://github.com/Pleiterson">
@@ -71,8 +72,7 @@ const pleiterson = {
 <br> -->
 
 <h3>🔍 Fun facts:</h3>
-  
-- Follow me in the Xbox Community: @pleiterson
+
 - Follow me in the Rocketseat community: Pleiterson Amorim 🚀
 
 ![Snake animation](https://github.com/Pleiterson/Pleiterson/blob/output/github-contribution-grid-snake.svg)
