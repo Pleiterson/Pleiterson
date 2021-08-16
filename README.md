@@ -21,7 +21,7 @@ To learn more about me, visit my <a target="_blank" rel="noopener noreferrer" hr
 <a href="https://www.youtube.com/user/pleiterson" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=lat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
 <a href="https://twitter.com/pleiterson" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=lat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://www.instagram.com/pleiterson/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=lat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/pleiterson.amorim" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=lat-square&logo=facebook&logoColor=white" alt="Facebook"></a><br>
+<a href="https://www.facebook.com/pleiterson.amorim" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=lat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://account.xbox.com/pt-br/profile?gamertag=pleiterson" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Xbox-107C10?style=lat-square&logo=xbox&logoColor=white" alt="Xbox"></a><br>
 
 <div align="center">
