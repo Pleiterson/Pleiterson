@@ -42,7 +42,7 @@ const pleiterson = {
     tools: ['Node.js','ReactJS', 'Yarn', 'npm', 'git', 'styled-components'],
     mobile: ['React Native'],
     databases: ['SQL', 'PostgreSQL', 'MongoDB', 'MySQL', 'SQLite', 'Docker'],
-    ides: ['VS Code', 'Android Studio'],
+    ides: ['VS Code', 'Visual Studio', 'Android Studio'],
   },
   methodologies: ['Scrum', 'Kanban', 'Agile'],
   interest: ['Python', 'php', 'Ruby', 'Kotlin', 'Angular', 'Bootstrap', 'GraphQL'],
