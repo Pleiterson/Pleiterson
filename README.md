@@ -4,8 +4,8 @@
 
 <!--About session-->
 <h3>Hi, I'm Pleiterson! Welcome to my GitHub 😁</h3>
-<span><em>Full Administrative Analyst at <a target="_blank" rel="noopener noreferrer" href="https://www.aec.com.br/">AeC</a></em></span><br>
-<span><em>Front-end Developer Jr. Freelancer</em></span>
+<span><em>Junior Full Stack Developer at <a target="_blank" rel="noopener noreferrer" href="https://fiskaldigital.com.br/">Fiskal Digital services</a></em></span><br>
+<span><em>Full Stack Freelance Developer</em></span>
 <br><br>
 <p>Born and raised in Belo Horizonte - MG, where I live until today. Father, Husband, communicative, proactive and cheerful, a person who values simple and humble things. I love being with my family and friends. I like to read about various topics and I'm passionate about comics, anime, music, theater, cinema, biking and cooking. Crazy about games, an assumed nerd since childhood! I'm always looking for time to go out with my family, also learn and, especially, teach my son <a target="_blank" rel="noopener noreferrer" href="https://github.com/hugocsantos">Hugo Costa</a> the steps of programming.</p>
 To learn more about me, visit my <a target="_blank" rel="noopener noreferrer" href="https://pleiterson.vercel.app/">Personal Portfolio</a>, there you can view my full profile.
@@ -39,12 +39,12 @@ const pleiterson = {
   code: ['C++', 'C#', 'HTML', 'CSS', 'JavaScript', 'TypeScript', 'Java'],
   certifications: ['SFC', 'SFPC', 'LLL'],
   technologies: {
-    tools: ['Node.js','ReactJS', 'Yarn', 'npm', 'git', 'styled-components'],
+    tools: ['Node.js', 'React', 'Yarn', 'npm', 'git', 'styled-components', 'SASS', 'Vite'],
     mobile: ['React Native'],
     databases: ['SQL', 'PostgreSQL', 'MongoDB', 'MySQL', 'SQLite', 'Docker'],
     ides: ['VS Code', 'Visual Studio'],
   },
-  methodologies: ['Scrum', 'Kanban', 'Agile'],
+  methodologies: ['Scrum', 'Kanban', 'Agile', 'Jira', 'DevOps'],
   interest: ['Python', 'php', 'Ruby', 'Kotlin', 'Angular', 'Bootstrap', 'GraphQL'],
   otherCodes: ['Pascal', 'Visual Basic', 'Delphi']
 }
